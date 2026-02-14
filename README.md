@@ -1,8 +1,8 @@
-#Description
+# Description
 
 A classic Snake game built using Python and Pygame, featuring smooth controls, dynamic difficulty, and a clean grid-based design. The project focuses on core game development concepts including event handling, collision detection, and real-time rendering.
 
-#Features
+# Features
 
 Grid-based movement system
 
@@ -16,13 +16,13 @@ Pause & restart functionality
 
 Keyboard controls (Arrow keys / WASD)
 
-#Technologies Used
+# Technologies Used
 
 Python
 
 Pygame
 
-#Concepts Demonstrated
+# Concepts Demonstrated
 
 Game loop architecture
 
@@ -34,6 +34,6 @@ Collision detection logic
 
 Real-time rendering
 
-🚀 Purpose
+###Purpose
 
 This project was created to strengthen understanding of game mechanics, logic design, and interactive application development using Python.
